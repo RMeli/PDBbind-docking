@@ -1,0 +1,131 @@
+2YMD_SRO_A_1213
+  RCSB PDB12061707383D
+Coordinates from PDB:2YMD:A:1213 Model:1 without hydrogens
+ 13 14  0  0  0  0            999 V2000
+   13.3780   10.1350   11.2250   O 0  0  0  0  0  0  0  0  0  0  0  0
+   13.4310    9.8820    9.8610   C 0  0  0  0  0  0  0  0  0  0  0  0
+   14.4460   10.4260    9.0570   C 0  0  0  0  0  0  0  0  0  0  0  0
+   14.4950   10.1570    7.6890   C 0  0  0  0  0  0  0  0  0  0  0  0
+   13.5050    9.3390    7.0960   C 0  0  0  0  0  0  0  0  0  0  0  0
+   13.3170    8.9130    5.7900   N 0  0  0  0  0  0  0  0  0  0  0  0
+   12.2180    8.1310    5.7330   C 0  0  0  0  0  0  0  0  0  0  0  0
+   11.6900    8.0390    7.0200   C 0  0  0  0  0  0  0  0  0  0  0  0
+   12.5130    8.8020    7.8810   C 0  0  0  0  0  0  0  0  0  0  0  0
+   12.4670    9.0660    9.2710   C 0  0  0  0  0  0  0  0  0  0  0  0
+   10.4800    7.2870    7.4570   C 0  0  0  0  0  0  0  0  0  0  0  0
+   10.4300    5.8300    7.1780   C 0  0  0  0  0  0  0  0  0  0  0  0
+   11.4690    5.0270    7.7460   N 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2 10  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+A    1
+OH
+A    2
+CZ3
+A    3
+CH2
+A    4
+CZ2
+A    5
+CE2
+A    6
+NE1
+A    7
+CD1
+A    8
+CG
+A    9
+CD2
+A   10
+CE3
+A   11
+CB
+A   12
+CA
+A   13
+NZ
+M  END
+>  <InstanceId>
+2YMD_SRO_A_1213
+
+>  <ChemCompId>
+SRO
+
+>  <PdbId>
+2YMD
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1213
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C10 N2 O
+
+>  <Name>
+SEROTONIN
+
+>  <SystematicName>
+3-(2-aminoethyl)-1H-indol-5-ol
+
+>  <Synonyms>
+3-(2-AMINOETHYL)-1H-INDOL-5-OL
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C10 H12 N2 O
+
+>  <MolecularWeight>
+176.215
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+
+
+>  <InChI>
+InChI=1S/C10H12N2O/c11-4-3-7-6-12-10-2-1-8(13)5-9(7)10/h1-2,5-6,12-13H,3-4,11H2
+
+>  <InChIKey>
+QZAYGJVTTNCVMB-UHFFFAOYSA-N
+
+>  <SMILES>
+c1cc2c(cc1O)c(c[nH]2)CCN
+
+$$$$

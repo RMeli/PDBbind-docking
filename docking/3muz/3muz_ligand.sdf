@@ -1,0 +1,138 @@
+3MUZ_IPT_1_2001
+  RCSB PDB12061709483D
+Coordinates from PDB:3MUZ:1:2001 Model:1 without hydrogens
+ 15 15  0  0  0  0            999 V2000
+   14.7350   27.5490   75.7920   C 0  0  0  0  0  0  0  0  0  0  0  0
+   13.4070   27.4730   76.5790   C 0  0  0  0  0  0  0  0  0  0  0  0
+   13.5070   26.4620   77.5770   O 0  0  0  0  0  0  0  0  0  0  0  0
+   12.2680   27.1460   75.6090   C 0  0  0  0  0  0  0  0  0  0  0  0
+   11.0330   27.0700   76.3030   O 0  0  0  0  0  0  0  0  0  0  0  0
+   12.1940   28.2410   74.5400   C 0  0  0  0  0  0  0  0  0  0  0  0
+   11.8580   29.5080   75.1420   O 0  0  0  0  0  0  0  0  0  0  0  0
+   13.5690   28.2990   73.8160   C 0  0  0  0  0  0  0  0  0  0  0  0
+   14.6440   28.5660   74.7570   O 0  0  0  0  0  0  0  0  0  0  0  0
+   13.5530   29.3980   72.7380   C 0  0  0  0  0  0  0  0  0  0  0  0
+   12.4340   29.2140   71.8720   O 0  0  0  0  0  0  0  0  0  0  0  0
+   16.1090   27.9480   76.9120   S 0  0  0  0  0  0  0  0  0  0  0  0
+   17.5260   27.8860   75.7630   C 0  0  0  0  0  0  0  0  0  0  0  0
+   17.6510   29.1890   74.9720   C 0  0  0  0  0  0  0  0  0  0  0  0
+   18.8120   27.6660   76.5770   C 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+O2
+A    4
+C3
+A    5
+O3
+A    6
+C4
+A    7
+O4
+A    8
+C5
+A    9
+O5
+A   10
+C6
+A   11
+O6
+A   12
+S1
+A   13
+C1'
+A   14
+C2'
+A   15
+C3'
+M  END
+>  <InstanceId>
+3MUZ_IPT_1_2001
+
+>  <ChemCompId>
+IPT
+
+>  <PdbId>
+3MUZ
+
+>  <ChainId>
+1
+
+>  <ResidueNumber>
+2001
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C9 O5 S
+
+>  <Name>
+ISOPROPYL-1-BETA-D-THIOGALACTOSIDE
+
+>  <SystematicName>
+(2R,3R,4S,5R,6S)-2-(hydroxymethyl)-6-propan-2-ylsulfanyl-oxane-3,4,5-triol
+
+>  <Synonyms>
+1-(ISOPROPYLTHIO)-BETA-GALACTOPYRANSIDE
+
+>  <Type>
+D-SACCHARIDE
+
+>  <Formula>
+C9 H18 O5 S
+
+>  <MolecularWeight>
+238.301
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C9H18O5S/c1-4(2)15-9-8(13)7(12)6(11)5(3-10)14-9/h4-13H,3H2,1-2H3/t5-,6+,7+,8-,9+/m1/s1
+
+>  <InChIKey>
+BPHPUYQFMNQIOC-NXRLNHOXSA-N
+
+>  <SMILES>
+CC(C)S[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O
+
+$$$$

@@ -1,0 +1,117 @@
+3NQ9_OCA_A_1111
+  RCSB PDB12061709573D
+Coordinates from PDB:3NQ9:A:1111 Model:1 without hydrogens
+ 10  9  0  0  0  0            999 V2000
+   -3.1830   -3.2620  -17.0780   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6540   -4.5610  -17.6350   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8030   -5.5260  -17.9290   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9210   -6.5870  -16.8450   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3290   -7.1720  -16.8130   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7850   -7.6230  -18.1890   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3050   -7.7030  -18.2680   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7110   -9.0490  -18.8230   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3080   -2.8480  -17.4500   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4750   -2.6460  -16.2560   O 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+C5
+A    6
+C6
+A    7
+C7
+A    8
+C8
+A    9
+O1
+A   10
+O2
+M  END
+>  <InstanceId>
+3NQ9_OCA_A_1111
+
+>  <ChemCompId>
+OCA
+
+>  <PdbId>
+3NQ9
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1111
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C8 O2
+
+>  <Name>
+OCTANOIC ACID (CAPRYLIC ACID)
+
+>  <SystematicName>
+octanoic acid
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C8 H16 O2
+
+>  <MolecularWeight>
+144.211
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)
+
+>  <InChIKey>
+WWZKQHOCKIZLMA-UHFFFAOYSA-N
+
+>  <SMILES>
+CCCCCCCC(=O)O
+
+$$$$

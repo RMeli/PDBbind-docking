@@ -1,0 +1,130 @@
+1YDD_AZM_A_264
+  RCSB PDB12061704443D
+Coordinates from PDB:1YDD:A:264 Model:1 without hydrogens
+ 13 13  0  0  0  0            999 V2000
+   -5.4570    2.0850   15.5410   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9860    3.7530   14.0580   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6310    5.9630   13.4220   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2880    7.0470   12.4330   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8790   -0.4590   16.1770   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2470    2.7520   13.8460   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4860    1.7510   14.7640   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8680    4.8790   13.2810   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0400    1.0010   17.8730   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -7.4050    1.3340   16.9540   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4680    6.0050   14.3400   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0020    0.9590   16.8130   S 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1280    3.6700   15.3290   S 0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 12  2  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+N1
+A    6
+N2
+A    7
+N3
+A    8
+N4
+A    9
+O1
+A   10
+O2
+A   11
+O3
+A   12
+S1
+A   13
+S2
+M  END
+>  <InstanceId>
+1YDD_AZM_A_264
+
+>  <ChemCompId>
+AZM
+
+>  <PdbId>
+1YDD
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+264
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C4 N4 O3 S2
+
+>  <Name>
+5-ACETAMIDO-1,3,4-THIADIAZOLE-2-SULFONAMIDE
+
+>  <SystematicName>
+N-(5-sulfamoyl-1,3,4-thiadiazol-2-yl)ethanamide
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C4 H6 N4 O3 S2
+
+>  <MolecularWeight>
+222.245
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C4H6N4O3S2/c1-2(9)6-3-7-8-4(12-3)13(5,10)11/h1H3,(H2,5,10,11)(H,6,7,9)
+
+>  <InChIKey>
+BZKPWHYZMXOIDC-UHFFFAOYSA-N
+
+>  <SMILES>
+CC(=O)Nc1nnc(s1)S(=O)(=O)N
+
+$$$$

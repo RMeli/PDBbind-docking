@@ -1,0 +1,126 @@
+2JDM_MFU_B_1117
+  RCSB PDB12061706023D
+Coordinates from PDB:2JDM:B:1117 Model:1 without hydrogens
+ 12 12  0  0  0  0            999 V2000
+   12.4240    4.7100   -3.4780   C 0  0  0  0  0  0  0  0  0  0  0  0
+   11.0780    4.5200   -2.7480   C 0  0  0  0  0  0  0  0  0  0  0  0
+   10.2290    3.4820   -3.4760   C 0  0  0  0  0  0  0  0  0  0  0  0
+   11.0290    2.2050   -3.7330   C 0  0  0  0  0  0  0  0  0  0  0  0
+   12.3950    2.4740   -4.3780   C 0  0  0  0  0  0  0  0  0  0  0  0
+   13.2140    1.1910   -4.5480   C 0  0  0  0  0  0  0  0  0  0  0  0
+   12.1740    5.2640   -4.7830   O 0  0  0  0  0  0  0  0  0  0  0  0
+   10.2970    5.7350   -2.5790   O 0  0  0  0  0  0  0  0  0  0  0  0
+    9.1090    3.1190   -2.6570   O 0  0  0  0  0  0  0  0  0  0  0  0
+   11.2250    1.5360   -2.4730   O 0  0  0  0  0  0  0  0  0  0  0  0
+   13.1140    3.4460   -3.6050   O 0  0  0  0  0  0  0  0  0  0  0  0
+   13.3290    5.8010   -5.4460   C 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+C5
+A    6
+C6
+A    7
+O1
+A    8
+O2
+A    9
+O3
+A   10
+O4
+A   11
+O5
+A   12
+CM
+M  END
+>  <InstanceId>
+2JDM_MFU_B_1117
+
+>  <ChemCompId>
+MFU
+
+>  <PdbId>
+2JDM
+
+>  <ChainId>
+B
+
+>  <ResidueNumber>
+1117
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C7 O5
+
+>  <Name>
+ALPHA-L-METHYL-FUCOSE
+
+>  <SystematicName>
+(2R,3S,4R,5S,6S)-2-methoxy-6-methyl-oxane-3,4,5-triol
+
+>  <Synonyms>
+
+
+>  <Type>
+L-SACCHARIDE
+
+>  <Formula>
+C7 H14 O5
+
+>  <MolecularWeight>
+178.183
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C7H14O5/c1-3-4(8)5(9)6(10)7(11-2)12-3/h3-10H,1-2H3/t3-,4+,5+,6-,7+/m0/s1
+
+>  <InChIKey>
+OHWCAVRRXKJCRB-CXNFULCWSA-N
+
+>  <SMILES>
+C[C@H]1[C@H]([C@H]([C@@H]([C@@H](O1)OC)O)O)O
+
+$$$$

@@ -1,0 +1,143 @@
+4PCS_2M7_A_505
+  RCSB PDB12061714123D
+Coordinates from PDB:4PCS:A:505 Model:1 without hydrogens
+ 16 17  0  0  0  0            999 V2000
+   34.0610    9.0040   58.6330   C 0  0  0  0  0  0  0  0  0  0  0  0
+   34.7610    9.7000   59.6110   C 0  0  0  0  0  0  0  0  0  0  0  0
+   34.2070    9.7460   60.8930   C 0  0  0  0  0  0  0  0  0  0  0  0
+   32.9820    9.1160   61.1930   C 0  0  0  0  0  0  0  0  0  0  0  0
+   32.2910    8.4170   60.1950   C 0  0  0  0  0  0  0  0  0  0  0  0
+   32.8380    8.3780   58.9080   C 0  0  0  0  0  0  0  0  0  0  0  0
+   32.1790    7.6410   57.8170   C 0  0  0  0  0  0  0  0  0  0  0  0
+   31.6050    7.0960   57.0270   C 0  0  0  0  0  0  0  0  0  0  0  0
+   30.9100    6.3810   55.9280   C 0  0  0  0  0  0  0  0  0  0  0  0
+   29.4690    6.4910   56.2530   N 0  0  0  0  0  0  0  0  0  0  0  0
+   28.9510    5.1130   56.2260   C 0  0  0  0  0  0  0  0  0  0  0  0
+   27.5180    5.0410   55.7860   C 0  0  0  0  0  0  0  0  0  0  0  0
+   29.8730    4.4150   55.2840   C 0  0  0  0  0  0  0  0  0  0  0  0
+   29.6340    4.9470   53.9520   O 0  0  0  0  0  0  0  0  0  0  0  0
+   31.1650    4.9070   55.8920   C 0  0  0  0  0  0  0  0  0  0  0  0
+   32.3100    4.4890   55.1040   O 0  0  0  0  0  0  0  0  0  0  0  0
+ 14 13  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 11  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 15  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 11 10  1  0  0  0  0
+  8  7  3  0  0  0  0
+  7  6  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  6  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  5  4  2  0  0  0  0
+  3  4  1  0  0  0  0
+A    1
+CAI
+A    2
+CAJ
+A    3
+CAK
+A    4
+CAL
+A    5
+CAM
+A    6
+CAH
+A    7
+CAG
+A    8
+CAF
+A    9
+CAD
+A   10
+NAE
+A   11
+CAA
+A   12
+CAN
+A   13
+CAB
+A   14
+OAO
+A   15
+CAC
+A   16
+OAP
+M  END
+>  <InstanceId>
+4PCS_2M7_A_505
+
+>  <ChemCompId>
+2M7
+
+>  <PdbId>
+4PCS
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+505
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C13 N O2
+
+>  <Name>
+(2S,3R,4S,5S)-2-methyl-5-(phenylethynyl)pyrrolidine-3,4-diol
+
+>  <SystematicName>
+(2S,3R,4S,5S)-2-methyl-5-(2-phenylethynyl)pyrrolidine-3,4-diol
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C13 H15 N O2
+
+>  <MolecularWeight>
+217.264
+
+>  <ModifiedDate>
+2014-07-10
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C13H15NO2/c1-9-12(15)13(16)11(14-9)8-7-10-5-3-2-4-6-10/h2-6,9,11-16H,1H3/t9-,11-,12+,13-/m0/s1
+
+>  <InChIKey>
+RPIQJUPODSDSQH-SYEHKZFSSA-N
+
+>  <SMILES>
+C[C@H]1[C@H]([C@H]([C@@H](N1)C#Cc2ccccc2)O)O
+
+$$$$

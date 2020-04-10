@@ -1,0 +1,138 @@
+4LZS_L46_A_201
+  RCSB PDB12061713393D
+Coordinates from PDB:4LZS:A:201 Model:1 without hydrogens
+ 15 15  0  0  0  0            999 V2000
+   12.6820   38.5720   77.4760   C 0  0  0  0  0  0  0  0  0  0  0  0
+   11.7030   37.6910   77.0090   C 0  0  0  0  0  0  0  0  0  0  0  0
+   10.4630   38.1280   77.7220   C 0  0  0  0  0  0  0  0  0  0  0  0
+   12.0390   39.4910   78.4520   C 0  0  0  0  0  0  0  0  0  0  0  0
+   14.1440   38.6210   77.1330   C 0  0  0  0  0  0  0  0  0  0  0  0
+    9.1280   37.4740   77.5610   C 0  0  0  0  0  0  0  0  0  0  0  0
+   12.6800   40.6100   79.2290   C 0  0  0  0  0  0  0  0  0  0  0  0
+   14.8290   37.3540   76.6940   C 0  0  0  0  0  0  0  0  0  0  0  0
+   12.0780   37.1810   74.6180   C 0  0  0  0  0  0  0  0  0  0  0  0
+   11.8370   36.5820   75.9930   C 0  0  0  0  0  0  0  0  0  0  0  0
+   10.7390   39.1630   78.5340   N 0  0  0  0  0  0  0  0  0  0  0  0
+    8.3330   37.4690   78.6420   N 0  0  0  0  0  0  0  0  0  0  0  0
+   14.7850   39.6480   77.2540   O 0  0  0  0  0  0  0  0  0  0  0  0
+    8.7840   36.9810   76.4910   O 0  0  0  0  0  0  0  0  0  0  0  0
+    6.9750   36.9200   78.6330   C 0  0  0  0  0  0  0  0  0  0  0  0
+  9 10  1  0  0  0  0
+ 10  2  1  0  0  0  0
+ 14  6  2  0  0  0  0
+  8  5  1  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  2  0  0  0  0
+  5 13  2  0  0  0  0
+  5  1  1  0  0  0  0
+  1  4  2  0  0  0  0
+  6  3  1  0  0  0  0
+  6 12  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4  7  1  0  0  0  0
+ 15 12  1  0  0  0  0
+A    1
+C4
+A    2
+C3
+A    3
+C7
+A    4
+C5
+A    5
+C27
+A    6
+C8
+A    7
+C26
+A    8
+C29
+A    9
+C1
+A   10
+C2
+A   11
+N6
+A   12
+N10
+A   13
+O28
+A   14
+O9
+A   15
+C6
+M  END
+>  <InstanceId>
+4LZS_L46_A_201
+
+>  <ChemCompId>
+L46
+
+>  <PdbId>
+4LZS
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+201
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C11 N2 O2
+
+>  <Name>
+4-acetyl-3-ethyl-N,5-dimethyl-1H-pyrrole-2-carboxamide
+
+>  <SystematicName>
+4-ethanoyl-3-ethyl-N,5-dimethyl-1H-pyrrole-2-carboxamide
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C11 H16 N2 O2
+
+>  <MolecularWeight>
+208.257
+
+>  <ModifiedDate>
+2014-01-10
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C11H16N2O2/c1-5-8-9(7(3)14)6(2)13-10(8)11(15)12-4/h13H,5H2,1-4H3,(H,12,15)
+
+>  <InChIKey>
+LCSLEHAEHBSCSA-UHFFFAOYSA-N
+
+>  <SMILES>
+CCc1c(c([nH]c1C(=O)NC)C)C(=O)C
+
+$$$$

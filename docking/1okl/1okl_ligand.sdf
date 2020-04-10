@@ -1,0 +1,147 @@
+1OKL_MNS_A_862
+  RCSB PDB12061703343D
+Coordinates from PDB:1OKL:A:862 Model:1 without hydrogens
+ 17 18  0  0  0  0            999 V2000
+   -5.2670    2.0110   15.7090   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5510    1.5230   14.5980   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0850    2.4330   13.6540   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3270    3.8040   13.8100   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0370    4.3650   14.8970   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2940    5.7660   15.0740   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0160    6.1860   16.2070   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4910    5.2760   17.1660   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2330    3.9050   16.9830   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5130    3.4240   15.8650   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7820    6.7640   14.0340   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5760    6.8600   14.1100   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4690    6.6220   12.9000   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8600    0.9290   16.8970   S 0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3490    1.0470   16.9670   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2510    1.2730   18.2200   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4860   -0.4700   16.5240   N 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 10  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+C4A
+A    6
+C5
+A    7
+C6
+A    8
+C7
+A    9
+C8
+A   10
+C8A
+A   11
+N
+A   12
+CM1
+A   13
+CM2
+A   14
+S
+A   15
+O1S
+A   16
+O2S
+A   17
+N3S
+M  END
+>  <InstanceId>
+1OKL_MNS_A_862
+
+>  <ChemCompId>
+MNS
+
+>  <PdbId>
+1OKL
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+862
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C12 N2 O2 S
+
+>  <Name>
+5-(DIMETHYLAMINO)-1-NAPHTHALENESULFONAMIDE
+
+>  <SystematicName>
+5-dimethylaminonaphthalene-1-sulfonamide
+
+>  <Synonyms>
+DANSYLAMIDE
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C12 H14 N2 O2 S
+
+>  <MolecularWeight>
+250.317
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C12H14N2O2S/c1-14(2)11-7-3-6-10-9(11)5-4-8-12(10)17(13,15)16/h3-8H,1-2H3,(H2,13,15,16)
+
+>  <InChIKey>
+TYNBFJJKZPTRKS-UHFFFAOYSA-N
+
+>  <SMILES>
+CN(C)c1cccc2c1cccc2S(=O)(=O)N
+
+$$$$

@@ -1,0 +1,131 @@
+3G2Z_GZ2_A_1
+  RCSB PDB12061708413D
+Coordinates from PDB:3G2Z:A:1 Model:1 without hydrogens
+ 13 14  0  0  0  0            999 V2000
+   -6.2580   51.5760    8.7620   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4170   51.8200    9.9490   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2890   52.3690   10.7330   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4420   52.7010   12.0280   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7740   52.5630   12.7320   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9760   52.4870   11.7940   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7570   51.5620   10.6070   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4610   53.1560   12.8200   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1360   53.2840   12.5140   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6620   53.5610   11.2920   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2670   53.5860   11.4610   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9850   53.3350   12.8170   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1990   53.1450   13.4760   N 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+A    1
+O13
+A    2
+C11
+A    3
+C12
+A    4
+C7
+A    5
+C8
+A    6
+C9
+A    7
+C10
+A    8
+N6
+A    9
+C5
+A   10
+N4
+A   11
+N3
+A   12
+N2
+A   13
+N1
+M  END
+>  <InstanceId>
+3G2Z_GZ2_A_1
+
+>  <ChemCompId>
+GZ2
+
+>  <PdbId>
+3G2Z
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C7 N5 O
+
+>  <Name>
+3-(1H-tetrazol-5-ylamino)cyclohex-2-en-1-one
+
+>  <SystematicName>
+3-(1H-1,2,3,4-tetrazol-5-ylamino)cyclohex-2-en-1-one
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C7 H9 N5 O
+
+>  <MolecularWeight>
+179.179
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C7H9N5O/c13-6-3-1-2-5(4-6)8-7-9-11-12-10-7/h4H,1-3H2,(H2,8,9,10,11,12)
+
+>  <InChIKey>
+REZXFQGPXQJVJG-UHFFFAOYSA-N
+
+>  <SMILES>
+C1CC(=CC(=O)C1)Nc2[nH]nnn2
+
+$$$$

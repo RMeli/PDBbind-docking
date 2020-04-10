@@ -1,0 +1,142 @@
+2XDL_2DL_A_1225
+  RCSB PDB12061707253D
+Coordinates from PDB:2XDL:A:1225 Model:1 without hydrogens
+ 16 16  0  0  0  0            999 V2000
+   64.9910   33.1470   27.7090   C 0  0  0  0  0  0  0  0  0  0  0  0
+   66.0820   33.4500   26.8880   C 0  0  0  0  0  0  0  0  0  0  0  0
+   65.8810   34.1640   25.7290   C 0  0  0  0  0  0  0  0  0  0  0  0
+   64.6130   34.5720   25.3420   C 0  0  0  0  0  0  0  0  0  0  0  0
+   63.5170   34.2650   26.1560   C 0  0  0  0  0  0  0  0  0  0  0  0
+   63.7040   33.5570   27.3290   C 0  0  0  0  0  0  0  0  0  0  0  0
+   65.1940   32.4660   28.8720   O 0  0  0  0  0  0  0  0  0  0  0  0
+   65.1120   38.5490   25.2530   C 0  0  0  0  0  0  0  0  0  0  0  0
+   65.7340   37.1830   25.0660   C 0  0  0  0  0  0  0  0  0  0  0  0
+   65.2710   37.1500   22.6150   C 0  0  0  0  0  0  0  0  0  0  0  0
+   66.7140   37.4160   22.2250   C 0  0  0  0  0  0  0  0  0  0  0  0
+   64.4420   35.3230   24.0650   C 0  0  0  0  0  0  0  0  0  0  0  0
+   63.7100   34.8850   23.2070   O 0  0  0  0  0  0  0  0  0  0  0  0
+   67.3140   33.0280   27.3160   O 0  0  0  0  0  0  0  0  0  0  0  0
+   65.1750   36.4640   23.9030   N 0  0  0  0  0  0  0  0  0  0  0  0
+   68.4560   33.8620   26.9850   C 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+C5
+A    6
+C6
+A    7
+O7
+A    8
+C9
+A    9
+C10
+A   10
+C12
+A   11
+C13
+A   12
+C14
+A   13
+O15
+A   14
+O16
+A   15
+N3
+A   16
+C15
+M  END
+>  <InstanceId>
+2XDL_2DL_A_1225
+
+>  <ChemCompId>
+2DL
+
+>  <PdbId>
+2XDL
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1225
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C12 N O3
+
+>  <Name>
+2-METHYL-4-DIETHYLAMIDE-PHENOL
+
+>  <SystematicName>
+N,N-diethyl-4-hydroxy-3-methoxy-benzamide
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C12 H17 N O3
+
+>  <MolecularWeight>
+223.268
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C12H17NO3/c1-4-13(5-2)12(15)9-6-7-10(14)11(8-9)16-3/h6-8,14H,4-5H2,1-3H3
+
+>  <InChIKey>
+BQJODPIMMWWMFC-UHFFFAOYSA-N
+
+>  <SMILES>
+CCN(CC)C(=O)c1ccc(c(c1)OC)O
+
+$$$$

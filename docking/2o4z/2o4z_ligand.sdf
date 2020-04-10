@@ -1,0 +1,101 @@
+2O4Z_HSW_A_300
+  RCSB PDB12061706283D
+Coordinates from PDB:2O4Z:A:300 Model:1 without hydrogens
+  6  5  0  0  0  0            999 V2000
+   -4.4550    1.4950   14.3290   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3820    1.8330   15.7780   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4800    0.9060   16.5510   S 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8610    1.4130   16.2970   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2560    0.9630   18.0350   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2830   -0.6210   16.0470   N 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+A    1
+O3
+A    2
+N2
+A    3
+S1
+A    4
+O2
+A    5
+O1
+A    6
+N1
+M  END
+>  <InstanceId>
+2O4Z_HSW_A_300
+
+>  <ChemCompId>
+HSW
+
+>  <PdbId>
+2O4Z
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+300
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+N2 O3 S
+
+>  <Name>
+N-hydroxysulfamide
+
+>  <SystematicName>
+
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+H4 N2 O3 S
+
+>  <MolecularWeight>
+112.108
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+
+
+>  <InChI>
+InChI=1S/H4N2O3S/c1-6(4,5)2-3/h2-3H,(H2,1,4,5)
+
+>  <InChIKey>
+FZTCJYJKHSXPEX-UHFFFAOYSA-N
+
+>  <SMILES>
+NS(=O)(=O)NO
+
+$$$$

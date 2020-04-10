@@ -1,0 +1,158 @@
+3F8E_TE1_A_300
+  RCSB PDB12061708333D
+Coordinates from PDB:3F8E:A:300 Model:1 without hydrogens
+ 20 20  0  0  0  0            999 V2000
+   -2.6550    3.5030   10.9140   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9780    5.2100    9.0840   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8020    6.8200   12.8680   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5360    7.3980   13.8050   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6420    2.0210   10.4280   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1430    3.4800   10.3940   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0700    4.4540   11.1960   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2140    5.2550   10.3980   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3380    6.7720   10.5380   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6340    7.4680   11.7070   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7060    8.8200   11.6420   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1410    6.8110    6.7520   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9770    7.9510    5.0480   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2610    7.9100    6.2090   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1350    7.4850    9.3790   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1860    8.8520    9.3200   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4820    9.4830   10.4670   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5190   10.8060   10.4090   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5020    9.1520    6.8550   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0060    9.5860    8.1240   C 0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  2  0  0  0  0
+A    1
+CAA
+A    2
+OAB
+A    3
+OAC
+A    4
+CAD
+A    5
+CAE
+A    6
+CAF
+A    7
+CAG
+A    8
+CAH
+A    9
+CAI
+A   10
+CAJ
+A   11
+CAK
+A   12
+OAL
+A   13
+OAM
+A   14
+CAN
+A   15
+CAO
+A   16
+CAP
+A   17
+CAQ
+A   18
+OAR
+A   19
+CAS
+A   20
+CAT
+M  END
+>  <InstanceId>
+3F8E_TE1_A_300
+
+>  <ChemCompId>
+TE1
+
+>  <PdbId>
+3F8E
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+300
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C15 O5
+
+>  <Name>
+(2Z)-3-{2-hydroxy-5-[(1S)-1-hydroxy-3-methylbutyl]-4-methoxyphenyl}prop-2-enoic acid
+
+>  <SystematicName>
+(Z)-3-[2-hydroxy-5-[(1S)-1-hydroxy-3-methyl-butyl]-4-methoxy-phenyl]prop-2-enoic acid
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C15 H20 O5
+
+>  <MolecularWeight>
+280.316
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C15H20O5/c1-9(2)6-13(17)11-7-10(4-5-15(18)19)12(16)8-14(11)20-3/h4-5,7-9,13,16-17H,6H2,1-3H3,(H,18,19)/b5-4-/t13-/m0/s1
+
+>  <InChIKey>
+KXEZMFMTEVLUPQ-ZFDPJTLLSA-N
+
+>  <SMILES>
+CC(C)C[C@@H](c1cc(c(cc1OC)O)/C=C\C(=O)O)O
+
+$$$$

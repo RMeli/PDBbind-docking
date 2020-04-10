@@ -1,0 +1,115 @@
+1UTO_PEA_A_1246
+  RCSB PDB12061704153D
+Coordinates from PDB:1UTO:A:1246 Model:1 without hydrogens
+  9  9  0  0  0  0            999 V2000
+   45.2880   20.2790   50.4580   C 0  0  0  0  0  0  0  0  0  0  0  0
+   46.2750   21.2320   50.6380   C 0  0  0  0  0  0  0  0  0  0  0  0
+   46.1530   22.5390   50.1950   C 0  0  0  0  0  0  0  0  0  0  0  0
+   45.0100   22.9460   49.5230   C 0  0  0  0  0  0  0  0  0  0  0  0
+   44.0220   22.0000   49.3210   C 0  0  0  0  0  0  0  0  0  0  0  0
+   44.1610   20.7100   49.7750   C 0  0  0  0  0  0  0  0  0  0  0  0
+   45.4430   18.9650   50.9490   C 0  0  0  0  0  0  0  0  0  0  0  0
+   45.5370   18.9420   52.5050   C 0  0  0  0  0  0  0  0  0  0  0  0
+   45.7910   17.5620   53.0200   N 0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  CHG  1   9   1
+A    1
+C1'
+A    2
+C6'
+A    3
+C5'
+A    4
+C4'
+A    5
+C3'
+A    6
+C2'
+A    7
+C2
+A    8
+C1
+A    9
+N
+M  END
+>  <InstanceId>
+1UTO_PEA_A_1246
+
+>  <ChemCompId>
+PEA
+
+>  <PdbId>
+1UTO
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1246
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C8 N
+
+>  <Name>
+2-PHENYLETHYLAMINE
+
+>  <SystematicName>
+phenethylazanium
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C8 H12 N
+
+>  <MolecularWeight>
+122.188
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C8H11N/c9-7-6-8-4-2-1-3-5-8/h1-5H,6-7,9H2/p+1
+
+>  <InChIKey>
+BHHGXPLMPWCGHP-UHFFFAOYSA-O
+
+>  <SMILES>
+c1ccc(cc1)CC[NH3+]
+
+$$$$

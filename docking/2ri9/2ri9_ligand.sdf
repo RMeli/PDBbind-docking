@@ -1,0 +1,114 @@
+2RI9_LDY_A_1900
+  RCSB PDB12061706563D
+Coordinates from PDB:2RI9:A:1900 Model:1 without hydrogens
+  9  9  0  0  0  0            999 V2000
+   35.3470   25.9220  -41.9130   C 0  0  0  0  0  0  0  0  0  0  0  0
+   34.3750   26.9450  -41.5990   O 0  0  0  0  0  0  0  0  0  0  0  0
+   34.3100   28.0180  -42.5730   C 0  0  0  0  0  0  0  0  0  0  0  0
+   34.1570   27.4770  -44.0240   C 0  0  0  0  0  0  0  0  0  0  0  0
+   34.5000   28.5090  -44.9430   O 0  0  0  0  0  0  0  0  0  0  0  0
+   35.0190   26.2330  -44.3330   C 0  0  0  0  0  0  0  0  0  0  0  0
+   36.3720   26.6090  -44.5430   O 0  0  0  0  0  0  0  0  0  0  0  0
+   34.9530   25.2220  -43.1960   C 0  0  0  0  0  0  0  0  0  0  0  0
+   33.6300   24.7050  -43.0840   O 0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+A    1
+C5
+A    2
+O5
+A    3
+C1
+A    4
+C2
+A    5
+O2
+A    6
+C3
+A    7
+O3
+A    8
+C4
+A    9
+O4
+M  END
+>  <InstanceId>
+2RI9_LDY_A_1900
+
+>  <ChemCompId>
+LDY
+
+>  <PdbId>
+2RI9
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1900
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+1
+
+>  <ObservedFormula>
+C5 O4
+
+>  <Name>
+alpha-D-lyxopyranose
+
+>  <SystematicName>
+(2S,3S,4S,5R)-oxane-2,3,4,5-tetrol
+
+>  <Synonyms>
+
+
+>  <Type>
+D-SACCHARIDE
+
+>  <Formula>
+C5 H10 O5
+
+>  <MolecularWeight>
+150.13
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3+,4+,5+/m1/s1
+
+>  <InChIKey>
+SRBFZHDQGSBBOR-STGXQOJASA-N
+
+>  <SMILES>
+C1[C@H]([C@@H]([C@@H]([C@H](O1)O)O)O)O
+
+$$$$

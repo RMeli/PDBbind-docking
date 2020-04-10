@@ -1,0 +1,122 @@
+2WEG_FBV_A_1263
+  RCSB PDB12061707143D
+Coordinates from PDB:2WEG:A:1263 Model:1 without hydrogens
+ 11 11  0  0  0  0            999 V2000
+   17.1360    6.0810   14.2900   C 0  0  0  0  0  0  0  0  0  0  0  0
+   15.7580    6.0500   14.4810   C 0  0  0  0  0  0  0  0  0  0  0  0
+   15.1360    5.0390   15.2330   C 0  0  0  0  0  0  0  0  0  0  0  0
+   15.9330    3.9930   15.7820   C 0  0  0  0  0  0  0  0  0  0  0  0
+   17.3440    4.1100   15.5410   C 0  0  0  0  0  0  0  0  0  0  0  0
+   17.9340    5.1140   14.8250   C 0  0  0  0  0  0  0  0  0  0  0  0
+   15.2380    2.6850   16.7310   S 0  0  0  0  0  0  0  0  0  0  0  0
+   15.7140    1.3040   16.0720   N 0  0  0  0  0  0  0  0  0  0  0  0
+   15.8190    2.8490   18.0770   O 0  0  0  0  0  0  0  0  0  0  0  0
+   13.8330    2.8260   16.5560   O 0  0  0  0  0  0  0  0  0  0  0  0
+   18.1030    3.1530   16.1200   F 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  2  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+C5
+A    6
+C6
+A    7
+S
+A    8
+N2
+A    9
+O1
+A   10
+O2
+A   11
+F
+M  END
+>  <InstanceId>
+2WEG_FBV_A_1263
+
+>  <ChemCompId>
+FBV
+
+>  <PdbId>
+2WEG
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1263
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C6 N O2 S F
+
+>  <Name>
+2-fluorobenzenesulfonamide
+
+>  <SystematicName>
+2-fluorobenzenesulfonamide
+
+>  <Synonyms>
+
+
+>  <Type>
+non-polymer
+
+>  <Formula>
+C6 H6 F N O2 S
+
+>  <MolecularWeight>
+175.181
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C6H6FNO2S/c7-5-3-1-2-4-6(5)11(8,9)10/h1-4H,(H2,8,9,10)
+
+>  <InChIKey>
+WFLBWYLZCQOPCA-UHFFFAOYSA-N
+
+>  <SMILES>
+c1ccc(c(c1)F)S(=O)(=O)N
+
+$$$$

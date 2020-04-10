@@ -1,0 +1,114 @@
+4LLX_5ZE_A_900
+  RCSB PDB12061713353D
+Coordinates from PDB:4LLX:A:900 Model:1 without hydrogens
+  9  9  0  0  0  0            999 V2000
+    5.6930   11.0820   44.7630   C 0  0  0  0  0  0  0  0  0  0  0  0
+    4.8910   12.2030   44.1300   C 0  0  0  0  0  0  0  0  0  0  0  0
+    4.7850   12.3370   42.7290   C 0  0  0  0  0  0  0  0  0  0  0  0
+    4.0160   13.3940   42.2120   C 0  0  0  0  0  0  0  0  0  0  0  0
+    3.8390   13.6130   40.7220   C 0  0  0  0  0  0  0  0  0  0  0  0
+    3.4170   14.2640   43.0660   N 0  0  0  0  0  0  0  0  0  0  0  0
+    3.5370   14.1190   44.4090   C 0  0  0  0  0  0  0  0  0  0  0  0
+    2.9160   14.9900   45.2130   N 0  0  0  0  0  0  0  0  0  0  0  0
+    4.2530   13.0910   44.9400   N 0  0  0  0  0  0  0  0  0  0  0  0
+  5  4  1  0  0  0  0
+  4  3  2  0  0  0  0
+  4  6  1  0  0  0  0
+  3  2  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  1  1  0  0  0  0
+  2  9  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+C5
+A    6
+N6
+A    7
+C7
+A    8
+N8
+A    9
+N9
+M  END
+>  <InstanceId>
+4LLX_5ZE_A_900
+
+>  <ChemCompId>
+5ZE
+
+>  <PdbId>
+4LLX
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+900
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C6 N3
+
+>  <Name>
+4,6-dimethylpyrimidin-2-amine
+
+>  <SystematicName>
+4,6-dimethylpyrimidin-2-amine
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C6 H9 N3
+
+>  <MolecularWeight>
+123.156
+
+>  <ModifiedDate>
+2014-02-21
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C6H9N3/c1-4-3-5(2)9-6(7)8-4/h3H,1-2H3,(H2,7,8,9)
+
+>  <InChIKey>
+IDQNBVFPZMCDDN-UHFFFAOYSA-N
+
+>  <SMILES>
+Cc1cc(nc(n1)N)C
+
+$$$$

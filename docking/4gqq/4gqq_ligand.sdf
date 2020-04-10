@@ -1,0 +1,138 @@
+4GQQ_0XR_A_502
+  RCSB PDB12061712453D
+Coordinates from PDB:4GQQ:A:502 Model:1 without hydrogens
+ 15 15  0  0  0  0            999 V2000
+    9.8770  -20.8740  121.0190   C 0  0  0  0  0  0  0  0  0  0  0  0
+    9.1890  -19.5740  120.5900   C 0  0  0  0  0  0  0  0  0  0  0  0
+    8.9770  -19.6330  119.1750   O 0  0  0  0  0  0  0  0  0  0  0  0
+    8.1490  -18.6400  118.7540   C 0  0  0  0  0  0  0  0  0  0  0  0
+    7.6920  -17.8230  119.5530   O 0  0  0  0  0  0  0  0  0  0  0  0
+    7.7870  -18.5770  117.2690   C 0  0  0  0  0  0  0  0  0  0  0  0
+    7.1010  -17.2520  116.9400   C 0  0  0  0  0  0  0  0  0  0  0  0
+    6.6500  -17.1900  115.4820   C 0  0  0  0  0  0  0  0  0  0  0  0
+    6.8780  -18.2440  114.6040   C 0  0  0  0  0  0  0  0  0  0  0  0
+    5.9350  -16.0760  115.0580   C 0  0  0  0  0  0  0  0  0  0  0  0
+    5.4390  -16.0160  113.7590   C 0  0  0  0  0  0  0  0  0  0  0  0
+    5.6610  -17.0740  112.8840   C 0  0  0  0  0  0  0  0  0  0  0  0
+    5.1780  -17.0180  111.6150   O 0  0  0  0  0  0  0  0  0  0  0  0
+    6.3800  -18.1870  113.3050   C 0  0  0  0  0  0  0  0  0  0  0  0
+    6.5700  -19.2190  112.4400   O 0  0  0  0  0  0  0  0  0  0  0  0
+ 13 12  1  0  0  0  0
+ 15 14  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 11  1  0  0  0  0
+ 14  9  1  0  0  0  0
+ 11 10  2  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  8  1  0  0  0  0
+  8  7  1  0  0  0  0
+  7  6  2  0  0  0  0
+  6  4  1  0  0  0  0
+  4  3  1  0  0  0  0
+  4  5  2  0  0  0  0
+  3  2  1  0  0  0  0
+  2  1  1  0  0  0  0
+A    1
+C5'
+A    2
+C4'
+A    3
+O2'
+A    4
+C3'
+A    5
+O1'
+A    6
+C2'
+A    7
+C1'
+A    8
+C1
+A    9
+C2
+A   10
+C6
+A   11
+C5
+A   12
+C4
+A   13
+O4
+A   14
+C3
+A   15
+O3
+M  END
+>  <InstanceId>
+4GQQ_0XR_A_502
+
+>  <ChemCompId>
+0XR
+
+>  <PdbId>
+4GQQ
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+502
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C11 O4
+
+>  <Name>
+ethyl (2E)-3-(3,4-dihydroxyphenyl)prop-2-enoate
+
+>  <SystematicName>
+ethyl (E)-3-[3,4-bis(oxidanyl)phenyl]prop-2-enoate
+
+>  <Synonyms>
+ethyl caffeate
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C11 H12 O4
+
+>  <MolecularWeight>
+208.211
+
+>  <ModifiedDate>
+2012-10-19
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C11H12O4/c1-2-15-11(14)6-4-8-3-5-9(12)10(13)7-8/h3-7,12-13H,2H2,1H3/b6-4+
+
+>  <InChIKey>
+WDKYDMULARNCIS-GQCTYLIASA-N
+
+>  <SMILES>
+CCOC(=O)/C=C/c1ccc(c(c1)O)O
+
+$$$$

@@ -1,0 +1,123 @@
+2EZ7_DHI_A_301
+  RCSB PDB12061705303D
+Coordinates from PDB:2EZ7:A:301 Model:1 without hydrogens
+ 11 11  0  0  0  0            999 V2000
+   -0.1790    2.2930   11.0110   N 0  0  0  0  0  0  0  0  0  0  0  0
+    0.2590    3.5970   11.5220   C 0  0  0  0  0  0  0  0  0  0  0  0
+    1.6920    3.8840   11.1000   C 0  0  0  0  0  0  0  0  0  0  0  0
+    2.0620    3.5830    9.9860   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6690    4.7030   11.0050   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0930    4.4050   11.3910   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8780    3.4860   10.8050   N 0  3  0  0  0  0  0  0  0  0  0  0
+   -2.8030    5.0020   12.3690   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0420    3.4900   11.3810   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0420    4.4210   12.3650   N 0  0  0  0  0  0  0  0  0  0  0  0
+    2.5520    4.4690   11.9460   O 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  CHG  1   7   1
+A    1
+N
+A    2
+CA
+A    3
+C
+A    4
+O
+A    5
+CB
+A    6
+CG
+A    7
+ND1
+A    8
+CD2
+A    9
+CE1
+A   10
+NE2
+A   11
+OXT
+M  END
+>  <InstanceId>
+2EZ7_DHI_A_301
+
+>  <ChemCompId>
+DHI
+
+>  <PdbId>
+2EZ7
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+301
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C6 N3 O2
+
+>  <Name>
+D-HISTIDINE
+
+>  <SystematicName>
+(2R)-2-amino-3-(1H-imidazol-3-ium-4-yl)propanoic acid
+
+>  <Synonyms>
+
+
+>  <Type>
+D-PEPTIDE LINKING
+
+>  <Formula>
+C6 H10 N3 O2
+
+>  <MolecularWeight>
+156.162
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+H
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C6H9N3O2/c7-5(6(10)11)1-4-2-8-3-9-4/h2-3,5H,1,7H2,(H,8,9)(H,10,11)/p+1/t5-/m1/s1
+
+>  <InChIKey>
+HNDVDQJCIGZPNO-RXMQYKEDSA-O
+
+>  <SMILES>
+c1c([nH+]c[nH]1)C[C@H](C(=O)O)N
+
+$$$$

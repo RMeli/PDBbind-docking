@@ -1,0 +1,130 @@
+3F3C_PFF_A_601
+  RCSB PDB12061708323D
+Coordinates from PDB:3F3C:A:601 Model:1 without hydrogens
+ 13 13  0  0  0  0            999 V2000
+   25.9520   32.2700   19.1620   N 0  0  0  0  0  0  0  0  0  0  0  0
+   27.2540   31.6260   19.1260   C 0  0  0  0  0  0  0  0  0  0  0  0
+   27.2000   30.3180   18.3880   C 0  0  0  0  0  0  0  0  0  0  0  0
+   28.2740   29.6910   18.1950   O 0  0  0  0  0  0  0  0  0  0  0  0
+   26.0890   29.9050   18.0060   O 0  0  0  0  0  0  0  0  0  0  0  0
+   27.7240   31.3570   20.5520   C 0  0  0  0  0  0  0  0  0  0  0  0
+   28.0240   32.6860   21.1950   C 0  0  0  0  0  0  0  0  0  0  0  0
+   28.6550   33.6630   20.4380   C 0  0  0  0  0  0  0  0  0  0  0  0
+   27.6660   32.9360   22.5200   C 0  0  0  0  0  0  0  0  0  0  0  0
+   28.9370   34.8970   20.9980   C 0  0  0  0  0  0  0  0  0  0  0  0
+   27.9470   34.1790   23.0870   C 0  0  0  0  0  0  0  0  0  0  0  0
+   28.5800   35.1500   22.3190   C 0  0  0  0  0  0  0  0  0  0  0  0
+   28.8640   36.3490   22.8450   F 0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+A    1
+N
+A    2
+CA
+A    3
+C
+A    4
+O
+A    5
+OXT
+A    6
+CB
+A    7
+CG
+A    8
+CD1
+A    9
+CD2
+A   10
+CE1
+A   11
+CE2
+A   12
+CZ
+A   13
+F
+M  END
+>  <InstanceId>
+3F3C_PFF_A_601
+
+>  <ChemCompId>
+PFF
+
+>  <PdbId>
+3F3C
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+601
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C9 N O2 F
+
+>  <Name>
+4-FLUORO-L-PHENYLALANINE
+
+>  <SystematicName>
+(2S)-2-amino-3-(4-fluorophenyl)propanoic acid
+
+>  <Synonyms>
+
+
+>  <Type>
+L-PEPTIDE LINKING
+
+>  <Formula>
+C9 H10 F N O2
+
+>  <MolecularWeight>
+183.18
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+PHE
+
+>  <OneLetterCode>
+F
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C9H10FNO2/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,8H,5,11H2,(H,12,13)/t8-/m0/s1
+
+>  <InChIKey>
+XWHHYOYVRVGJJY-QMMMGPOBSA-N
+
+>  <SMILES>
+c1cc(ccc1C[C@@H](C(=O)O)N)F
+
+$$$$

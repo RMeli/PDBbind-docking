@@ -1,0 +1,139 @@
+3CFT_5NS_A_1
+  RCSB PDB12061708103D
+Coordinates from PDB:3CFT:A:1 Model:1 without hydrogens
+ 15 16  0  0  0  0            999 V2000
+  -22.4990    1.7320  -27.0500   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -22.9310    2.1000  -25.7760   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -22.5900    1.3100  -24.6810   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8130    0.1540  -24.8510   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -21.3740   -0.2190  -26.1400   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -21.7170    0.5840  -27.2480   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -20.2600   -2.1530  -25.1700   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -20.5960   -1.3790  -26.2800   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -20.7370    1.4800  -29.3870   O 0  0  0  0  0  0  0  0  0  0  0  0
+  -21.2660    0.2440  -28.7650   S 0  0  0  0  0  0  0  0  0  0  0  0
+  -22.4480   -0.2750  -29.5040   O 0  0  0  0  0  0  0  0  0  0  0  0
+  -20.2070   -0.7970  -28.8280   O 0  0  0  0  0  0  0  0  0  0  0  0
+  -20.7040   -1.7800  -23.9010   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -21.4790   -0.6300  -23.7340   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8940   -0.3020  -22.4750   N 0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  4 14  2  0  0  0  0
+  6  5  1  0  0  0  0
+  8  5  2  0  0  0  0
+ 10  6  1  0  0  0  0
+  8  7  1  0  0  0  0
+  7 13  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 10  2  0  0  0  0
+ 11 10  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+C5
+A    6
+C6
+A    7
+C9
+A    8
+C10
+A    9
+O14
+A   10
+S11
+A   11
+O12
+A   12
+O13
+A   13
+C8
+A   14
+C7
+A   15
+N15
+M  END
+>  <InstanceId>
+3CFT_5NS_A_1
+
+>  <ChemCompId>
+5NS
+
+>  <PdbId>
+3CFT
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C10 N O3 S
+
+>  <Name>
+5-aminonaphthalene-1-sulfonic acid
+
+>  <SystematicName>
+5-aminonaphthalene-1-sulfonic acid
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C10 H9 N O3 S
+
+>  <MolecularWeight>
+223.248
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C10H9NO3S/c11-9-5-1-4-8-7(9)3-2-6-10(8)15(12,13)14/h1-6H,11H2,(H,12,13,14)
+
+>  <InChIKey>
+DQNAQOYOSRJXFZ-UHFFFAOYSA-N
+
+>  <SMILES>
+c1cc2c(cccc2S(=O)(=O)O)c(c1)N
+
+$$$$

@@ -1,0 +1,123 @@
+3VH9_HQY_A_303
+  RCSB PDB12061711133D
+Coordinates from PDB:3VH9:A:303 Model:1 without hydrogens
+ 11 12  0  0  0  0            999 V2000
+   19.7320  -29.6330   -6.3540   O 0  0  0  0  0  0  0  0  0  0  0  0
+   19.5590  -26.6020  -10.2350   C 0  0  0  0  0  0  0  0  0  0  0  0
+   20.5490  -27.2990   -9.5270   C 0  0  0  0  0  0  0  0  0  0  0  0
+   18.2190  -26.6260   -9.8250   C 0  0  0  0  0  0  0  0  0  0  0  0
+   16.3010  -28.3660   -7.1440   C 0  0  0  0  0  0  0  0  0  0  0  0
+   20.2460  -28.0500   -8.4740   N 0  0  0  0  0  0  0  0  0  0  0  0
+   16.5580  -27.5570   -8.2370   C 0  0  0  0  0  0  0  0  0  0  0  0
+   18.6710  -28.9600   -6.9330   C 0  0  0  0  0  0  0  0  0  0  0  0
+   17.3510  -29.0670   -6.4980   C 0  0  0  0  0  0  0  0  0  0  0  0
+   17.9030  -27.4450   -8.7040   C 0  0  0  0  0  0  0  0  0  0  0  0
+   18.9310  -28.1290   -8.0650   C 0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+A    1
+OAA
+A    2
+CAD
+A    3
+CAE
+A    4
+CAF
+A    5
+CAG
+A    6
+NAH
+A    7
+CAI
+A    8
+CAJ
+A    9
+CAK
+A   10
+CAL
+A   11
+CAM
+M  END
+>  <InstanceId>
+3VH9_HQY_A_303
+
+>  <ChemCompId>
+HQY
+
+>  <PdbId>
+3VH9
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+303
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C9 N O
+
+>  <Name>
+quinolin-8-ol
+
+>  <SystematicName>
+quinolin-8-ol
+
+>  <Synonyms>
+8-hydroxyquinoline
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C9 H7 N O
+
+>  <MolecularWeight>
+145.158
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C9H7NO/c11-8-5-1-3-7-4-2-6-10-9(7)8/h1-6,11H
+
+>  <InChIKey>
+MCJGNVYPOGVAJF-UHFFFAOYSA-N
+
+>  <SMILES>
+c1cc2cccnc2c(c1)O
+
+$$$$

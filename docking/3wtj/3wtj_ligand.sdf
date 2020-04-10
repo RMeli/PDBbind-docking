@@ -1,0 +1,143 @@
+3WTJ_TH4_A_301
+  RCSB PDB12061711253D
+Coordinates from PDB:3WTJ:A:301 Model:1 without hydrogens
+ 16 17  0  0  0  0            999 V2000
+   29.8120  -26.6700  -30.4830   C 0  0  0  0  0  0  0  0  0  0  0  0
+   29.7920  -26.2740  -31.8490   C 0  0  0  0  0  0  0  0  0  0  0  0
+   29.6820  -24.8930  -32.1610   C 0  0  0  0  0  0  0  0  0  0  0  0
+   29.6260  -24.3450  -33.8640  Cl 0  0  0  0  0  0  0  0  0  0  0  0
+   29.6060  -23.9590  -31.1430   N 0  0  0  0  0  0  0  0  0  0  0  0
+   29.6240  -24.3160  -29.8270   C 0  0  0  0  0  0  0  0  0  0  0  0
+   29.7220  -25.6780  -29.4600   C 0  0  0  0  0  0  0  0  0  0  0  0
+   29.7060  -26.0590  -27.9900   C 0  0  0  0  0  0  0  0  0  0  0  0
+   30.9450  -26.5950  -27.4330   N 0  0  0  0  0  0  0  0  0  0  0  0
+   32.0910  -25.6830  -27.3020   C 0  0  0  0  0  0  0  0  0  0  0  0
+   33.2460  -26.4860  -26.6920   C 0  0  0  0  0  0  0  0  0  0  0  0
+   32.6410  -28.1120  -26.4410   S 0  0  0  0  0  0  0  0  0  0  0  0
+   31.1000  -27.8620  -27.0270   C 0  0  0  0  0  0  0  0  0  0  0  0
+   30.1710  -28.7560  -27.0850   N 0  0  0  0  0  0  0  0  0  0  0  0
+   30.3190  -29.9160  -26.7110   C 0  0  0  0  0  0  0  0  0  0  0  0
+   30.4740  -31.0140  -26.3690   N 0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  3  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 12  1  0  0  0  0
+ 14 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  3  0  0  0  0
+A    1
+C5
+A    2
+C6
+A    3
+C1
+A    4
+CL7
+A    5
+N2
+A    6
+C3
+A    7
+C4
+A    8
+C8
+A    9
+N9
+A   10
+C13
+A   11
+C12
+A   12
+S11
+A   13
+C10
+A   14
+N14
+A   15
+C15
+A   16
+N16
+M  END
+>  <InstanceId>
+3WTJ_TH4_A_301
+
+>  <ChemCompId>
+TH4
+
+>  <PdbId>
+3WTJ
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+301
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C10 N4 S Cl
+
+>  <Name>
+{(2Z)-3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene}cyanamide
+
+>  <SystematicName>
+(Z)-[3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene]cyanamide
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C10 H9 Cl N4 S
+
+>  <MolecularWeight>
+252.723
+
+>  <ModifiedDate>
+2011-06-04
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C10H9ClN4S/c11-9-2-1-8(5-13-9)6-15-3-4-16-10(15)14-7-12/h1-2,5H,3-4,6H2/b14-10-
+
+>  <InChIKey>
+HOKKPVIRMVDYPB-UVTDQMKNSA-N
+
+>  <SMILES>
+c1cc(ncc1CN\2CCS/C2=N\C#N)Cl
+
+$$$$

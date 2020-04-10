@@ -1,0 +1,147 @@
+6CED_EYA_A_1304
+  RCSB PDB02231823473D
+Coordinates from PDB:6CED:A:1304 Model:1 without hydrogens
+ 17 18  0  0  0  0            999 V2000
+    0.4440    2.5140    7.5200   C 0  0  0  0  0  0  0  0  0  0  0  0
+    1.3930    1.6860    8.3200   C 0  0  0  0  0  0  0  0  0  0  0  0
+    2.8530    1.9660    7.9800   C 0  0  0  0  0  0  0  0  0  0  0  0
+    3.3760    3.3670    8.2300   C 0  0  0  0  0  0  0  0  0  0  0  0
+    0.0600    4.1130    5.9060   C 0  0  0  0  0  0  0  0  0  0  0  0
+    0.5910    4.9750    4.9440   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2550    5.7710    4.1890   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6200    5.7140    4.3810   C 0  0  0  0  0  0  0  0  0  0  0  0
+    4.2550    3.8450    7.5080   O 0  0  0  0  0  0  0  0  0  0  0  0
+    0.9370    3.3300    6.6560   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9220    2.3790    7.7620   N 0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4110    1.4190    8.7370   C 0  0  0  0  0  0  0  0  0  0  0  0
+    2.8620    3.9560    9.3100   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0340    3.0930    7.3410   O 0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8570    3.1630    7.0770   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3210    4.0620    6.0970   C 0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1630    4.8730    5.3310   C 0  0  0  0  0  0  0  0  0  0  0  0
+  7  8  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8 17  1  0  0  0  0
+  6  5  2  0  0  0  0
+ 17 16  2  0  0  0  0
+  5 16  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 16 15  1  0  0  0  0
+ 10  1  2  0  0  0  0
+ 15 14  2  0  0  0  0
+ 15 11  1  0  0  0  0
+  9  4  2  0  0  0  0
+  1 11  1  0  0  0  0
+  1  2  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4 13  1  0  0  0  0
+A    1
+C1
+A    2
+C2
+A    3
+C3
+A    4
+C4
+A    5
+C5
+A    6
+C6
+A    7
+C7
+A    8
+C8
+A    9
+O1
+A   10
+N1
+A   11
+N
+A   12
+C
+A   13
+O
+A   14
+O2
+A   15
+C11
+A   16
+C10
+A   17
+C9
+M  END
+>  <InstanceId>
+6CED_EYA_A_1304
+
+>  <ChemCompId>
+EYA
+
+>  <PdbId>
+6CED
+
+>  <ChainId>
+A
+
+>  <ResidueNumber>
+1304
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C12 N2 O3
+
+>  <Name>
+3-(3-methyl-4-oxo-3,4-dihydroquinazolin-2-yl)propanoic acid
+
+>  <SystematicName>
+3-(3-methyl-4-oxidanylidene-quinazolin-2-yl)propanoic acid
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C12 H12 N2 O3
+
+>  <MolecularWeight>
+232.235
+
+>  <ModifiedDate>
+2018-02-23
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C12H12N2O3/c1-14-10(6-7-11(15)16)13-9-5-3-2-4-8(9)12(14)17/h2-5H,6-7H2,1H3,(H,15,16)
+
+>  <InChIKey>
+UXGWMRNLTMHSST-UHFFFAOYSA-N
+
+>  <SMILES>
+CN1C(=Nc2ccccc2C1=O)CCC(=O)O
+
+$$$$

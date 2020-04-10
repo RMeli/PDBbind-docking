@@ -1,0 +1,139 @@
+5NIH_8VE_B_303
+  RCSB PDB12061719113D
+Coordinates from PDB:5NIH:B:303 Model:1 without hydrogens
+ 15 16  0  0  0  0            999 V2000
+  -62.7480   91.4730   33.6300   N 0  0  0  0  0  0  0  0  0  0  0  0
+  -60.6100   90.5140   31.6690   N 0  0  0  0  0  0  0  0  0  0  0  0
+  -62.7320   89.5700   32.1820   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -61.3800   89.2580   31.5030   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -63.6610   92.5370   34.0840   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -62.8760   87.8930   34.2360   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -61.4910   88.9340   30.0100   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -62.7950   89.2760   33.6540   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -62.8310   90.3040   34.4030   N 0  0  0  0  0  0  0  0  0  0  0  0
+  -61.5840   91.5970   31.4600   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -62.8290   91.0910   32.2030   C 0  0  0  0  0  0  0  0  0  0  0  0
+  -62.7060   87.8070   35.4970   O 0  0  0  0  0  0  0  0  0  0  0  0
+  -60.8300   89.6260   29.1940   O 0  0  0  0  0  0  0  0  0  0  0  0
+  -63.1300   86.9350   33.4740   O 0  0  0  0  0  0  0  0  0  0  0  0
+  -62.2440   87.9940   29.6880   O 0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  0  0  0  0
+  9  1  1  0  0  0  0
+  9  8  2  0  0  0  0
+  1 11  1  0  0  0  0
+ 14  6  2  0  0  0  0
+ 10  2  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  8  6  1  0  0  0  0
+  8  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  6 12  1  0  0  0  0
+ 11  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7 13  2  0  0  0  0
+  7 15  1  0  0  0  0
+A    1
+N1
+A    2
+N3
+A    3
+C4
+A    4
+C5
+A    5
+C6
+A    6
+C7
+A    7
+C8
+A    8
+C1
+A    9
+N2
+A   10
+C2
+A   11
+C3
+A   12
+O1
+A   13
+O2
+A   14
+O3
+A   15
+O4
+M  END
+>  <InstanceId>
+5NIH_8VE_B_303
+
+>  <ChemCompId>
+8VE
+
+>  <PdbId>
+5NIH
+
+>  <ChainId>
+B
+
+>  <ResidueNumber>
+303
+
+>  <InsertionCode>
+
+
+>  <Model>
+1
+
+>  <AltIds>
+
+
+>  <MissingHeavyAtoms>
+0
+
+>  <ObservedFormula>
+C8 N3 O4
+
+>  <Name>
+(3~{a}~{R},4~{S},6~{a}~{R})-1-methyl-4,5,6,6~{a}-tetrahydro-3~{a}~{H}-pyrrolo[3,4-c]pyrazole-3,4-dicarboxylic acid
+
+>  <SystematicName>
+(3~{a}~{R},4~{S},6~{a}~{R})-1-methyl-4,5,6,6~{a}-tetrahydro-3~{a}~{H}-pyrrolo[3,4-c]pyrazole-3,4-dicarboxylic acid
+
+>  <Synonyms>
+
+
+>  <Type>
+NON-POLYMER
+
+>  <Formula>
+C8 H11 N3 O4
+
+>  <MolecularWeight>
+213.191
+
+>  <ModifiedDate>
+2017-07-21
+
+>  <Parent>
+
+
+>  <OneLetterCode>
+
+
+>  <SubcomponentList>
+
+
+>  <AmbiguousFlag>
+N
+
+>  <InChI>
+InChI=1S/C8H11N3O4/c1-11-3-2-9-5(7(12)13)4(3)6(10-11)8(14)15/h3-5,9H,2H2,1H3,(H,12,13)(H,14,15)/t3-,4-,5-/m0/s1
+
+>  <InChIKey>
+MUCHMWUQFYVYSF-YUPRTTJUSA-N
+
+>  <SMILES>
+CN1[C@H]2CN[C@@H]([C@H]2C(=N1)C(=O)O)C(=O)O
+
+$$$$
